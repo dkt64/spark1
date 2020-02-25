@@ -1,7 +1,7 @@
 
 import org.apache.spark.SparkContext
 import org.apache.spark.sql.{SQLContext, SparkSession}
-import org.apache.ph
+import org.apache.phoenix.spark.datasource.v2.PhoenixDataSource
 
 object Spark1 {
     def main(args: Array[String]) = {
