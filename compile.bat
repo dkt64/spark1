@@ -1,0 +1,1 @@
+scalac -classpath "spark-core_2.11-2.3.1.jar;spark-sql_2.11-2.4.5.jar;phoenix-spark-5.0.0-HBase-2.0.jar" -d spark1.jar spark1.scala

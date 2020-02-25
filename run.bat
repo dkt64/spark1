@@ -1,0 +1,1 @@
+scala -classpath spark-core_2.11-2.3.1.jar spark1.jar Spark1

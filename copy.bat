@@ -1,0 +1,1 @@
+docker cp spark1.jar sandbox-hdp:/usr/bajtek/spark
